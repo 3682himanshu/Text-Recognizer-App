@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "971618880049",
+    "firebase_url": "https://chat-4d751-default-rtdb.firebaseio.com",
+    "project_id": "chat-4d751",
+    "storage_bucket": "chat-4d751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971618880049:android:1ac0ba2a37b50c63d8e310",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971618880049-pk96s0hmh4s9lt30tm3monogs3iocugu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBokmqfvzJrhfkzGyKmBuiYP07bDze9Sxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971618880049-pk96s0hmh4s9lt30tm3monogs3iocugu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971618880049:android:f912da8ea09f6009d8e310",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971618880049-2gsgccd0sottc2tiho55d1vjjos5d0on.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "94764a538f395e9db32f294cbd3ddbf19b705b80"
+          }
+        },
+        {
+          "client_id": "971618880049-pk96s0hmh4s9lt30tm3monogs3iocugu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBokmqfvzJrhfkzGyKmBuiYP07bDze9Sxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971618880049-pk96s0hmh4s9lt30tm3monogs3iocugu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
